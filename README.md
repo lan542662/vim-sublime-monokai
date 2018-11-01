@@ -124,6 +124,13 @@ highlighting.
     This should cover all options provided by `vim-go` pertaining to
     highlighting. If you notice that this is out-of-date, please submit a PR!
 
+### Rust
+
+![Rust](screenshots/rust.png)
+
+1. [`rust-lang/rust.vim`](https://github.com/rust-lang/rust.vim) for the core
+    language
+
 ## Other Screenshots
 
 ### HTML
