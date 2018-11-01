@@ -124,6 +124,13 @@ highlighting.
     This should cover all options provided by `vim-go` pertaining to
     highlighting. If you notice that this is out-of-date, please submit a PR!
 
+### TOML
+
+![TOML](screenshots/toml.png)
+
+1. [`cespare/vim-toml`](https://github.com/cespare/vim-toml) for the core
+   language
+
 ## Other Screenshots
 
 ### HTML
